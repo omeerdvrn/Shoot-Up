@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5735abf4-0c8b-47c6-b731-578ffff8385d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FillBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PieceDestroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Building.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Unity/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Predicter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shooter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PullAndRelease.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/MainMenuPanelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Omer Calısma Scripts/OmerCalısma.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Omer Calısma Scripts/OmerDeneme.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/OmerDeniyor/OmerDeniyor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Building.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TrajectoryPrediction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/omer/omer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FillBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PieceDestroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Predicter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ball_Collision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProgresBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UpstairsCheck.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ipCf7zWILEmMvC6NK8fAJHE5MS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5735abf4-0c8b-47c6-b731-578ffff8385d" name="Default Changelist" comment="" />
+      <created>1602595252732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602595252732</updated>
+      <workItem from="1602595287588" duration="18178000" />
+      <workItem from="1602701814598" duration="7427000" />
+      <workItem from="1602756358276" duration="11273000" />
+      <workItem from="1602787198766" duration="4563000" />
+      <workItem from="1602874693161" duration="2763000" />
+      <workItem from="1603127590896" duration="10016000" />
+      <workItem from="1603192624205" duration="2415000" />
+      <workItem from="1603218925230" duration="3747000" />
+      <workItem from="1603288373661" duration="4748000" />
+      <workItem from="1603305965733" duration="3243000" />
+      <workItem from="1603357858739" duration="3979000" />
+      <workItem from="1603372497748" duration="2440000" />
+      <workItem from="1603397795070" duration="3259000" />
+      <workItem from="1603562522010" duration="41000" />
+      <workItem from="1603563281849" duration="7356000" />
+      <workItem from="1603655645442" duration="1169000" />
+      <workItem from="1603711432080" duration="11952000" />
+      <workItem from="1603734393695" duration="612000" />
+      <workItem from="1603743422865" duration="1533000" />
+      <workItem from="1603806659743" duration="2968000" />
+      <workItem from="1603822315360" duration="10997000" />
+      <workItem from="1603914560547" duration="2693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="54" y="14" width="1290" height="812" maximized="true" key="dock-window-1" timestamp="1603716612242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="54" y="14" width="1290" height="812" maximized="true" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603716612242" />
+    <state x="0" y="0" width="1550" height="882" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603132754925" />
+    <state x="1920" y="0" width="1290" height="812" maximized="true" key="dock-window-2" timestamp="1603716612243">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1290" height="812" maximized="true" key="dock-window-2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603716612243" />
+    <state x="0" y="0" width="1550" height="882" key="dock-window-2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602789331185" />
+  </component>
+</project>
